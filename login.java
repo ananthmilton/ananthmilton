@@ -1,4 +1,4 @@
 
-how  to create remote repository
+how  to create remote
 
 
