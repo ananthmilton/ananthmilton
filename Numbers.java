@@ -1,12 +1,12 @@
 public class Numbers
 {
-	public static  void main(string args[])
+	public static  void main(String args[])
 	{
 	
 		int i;
 
 		for(i=0;i<=10;i++) {
-			system.out.println("Number: " + i);
+			System.out.println("Number: " + i);
 		}
 	}
 }
