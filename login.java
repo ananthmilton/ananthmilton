@@ -2,9 +2,10 @@ public repository is time managagement
 
 
 
+yes
 
  
 
-how  to create remote
+hot  to create remote
 
 
