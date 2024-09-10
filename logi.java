@@ -1,1 +1,1 @@
-if static a=10 b=12
+if static a=30 b=12
